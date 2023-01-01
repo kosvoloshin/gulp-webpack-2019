@@ -23,9 +23,9 @@
     "gulp-string-replace": "^1.1.2",
     "gulp-svg-sprite": "^1.5.0",
     "gulp-svgmin": "^2.2.0",
-    "webpack-stream": "^5.2.1",
+    "webpack-stream": "^7.0.0",
     "uglifyjs-webpack-plugin": "^1.0.0-beta.2",
-    "webpack": "^4.1.0"
+    "webpack": "^5.75.0"
   },
   "dependencies": {}
 }
